@@ -77,7 +77,7 @@ export default function Contact() {
               <option>Presencial</option>
               <option>Virtual</option>
               <option>Privada</option>
-              <option>Empresa</option>
+              <option>Corporativa</option>
             </select>
           </label>
         </div>

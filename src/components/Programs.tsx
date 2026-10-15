@@ -36,7 +36,7 @@ const MODES = {
 const SERVICES = [
   { icon: Users, title: 'Clases grupales', text: 'Aprende y comparte con otros estudiantes de tu mismo nivel.' },
   { icon: User, title: 'Clases privadas', text: 'Atención 100% personalizada, 1 a 1 o semiprivadas.' },
-  { icon: Building2, title: 'Empresas', text: 'Programas corporativos a la medida de tu equipo.' },
+  { icon: Building2, title: 'Corporativas', text: 'Programas a la medida de tu empresa y tu equipo.' },
   { icon: Award, title: 'Exámenes internacionales', text: 'TOEFL, IELTS, DELF, DELE, Goethe y más.' },
   { icon: GraduationCap, title: 'Profesores expertos', text: 'Docentes certificados y con experiencia internacional.' },
   { icon: Briefcase, title: 'Certificados', text: 'Constancia de estudios al completar cada nivel.' },
