@@ -1,0 +1,11 @@
+node_modules
+dist
+.vercel
+*.local
+.DS_Store
+
+# Material fuente del cliente (originales pesados / documentos internos)
+/*.png
+/*.jpeg
+/*.txt
+.claude
